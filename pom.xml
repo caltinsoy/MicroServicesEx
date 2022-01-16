@@ -12,6 +12,7 @@
     <modules>
         <module>customer</module>
         <module>fraud</module>
+        <module>clients</module>
     </modules>
 
     <name>amigosservices</name>
